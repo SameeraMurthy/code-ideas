@@ -1,1 +1,2 @@
-# code-ideas
+# articulist
+Ultimate Note Taking App

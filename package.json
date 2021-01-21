@@ -1,0 +1,26 @@
+{
+  "name": "code-ideas",
+  "version": "1.0.0",
+  "description": "Get coding project ideas.",
+  "main": "app.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sameeramurthy/code-ideas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sameeramurthy/code-ideas/issues"
+  },
+  "homepage": "https://github.com/sameeramurthy/code-ideas#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
+}
